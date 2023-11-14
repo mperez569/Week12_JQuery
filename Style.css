@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: azure;
+    margin: 0 auto;
+    width: 640px;
+    border: 3px solid rgb(92, 92, 155);
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+div{
+    margin-bottom: 1em;
+}
+
+.hidden{
+    display: none;
+}
+
+.showUP{
+    display: block;
+}
